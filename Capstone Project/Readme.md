@@ -79,5 +79,6 @@ Fine-tuning enhances the model’s performance on domain-specific or task-specif
 ## Contributors
  
 This project was completed as part of a team effort by:
-Rohan Mani John, Navdeep Singh, Tanneeru Deepak, Sudeshna Sen, and Eshwar R.
+
+**Rohan Mani John, Navdeep Singh, Tanneeru Deepak, Sudeshna Sen, and Eshwar R.**
 
